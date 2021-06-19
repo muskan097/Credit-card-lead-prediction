@@ -1,10 +1,10 @@
 # Credit-card-lead-prediction
 
-[![](https://i.imgur.com/KZZbEBk.png)]
+                                          [![](https://i.imgur.com/KZZbEBk.png)]
 
 ## Table of Content
   * [Overview](#overview)
-  * [Business Case](#business case)
+  * [Business Case](#business Case)
  
 
 ## Overview
